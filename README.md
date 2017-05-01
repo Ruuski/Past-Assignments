@@ -1,2 +1,2 @@
 # indexed-document-retrieval
-1st year algorithms assignment
+COMP10002 Foundations of Algorithms 2017 - Assignment 1
